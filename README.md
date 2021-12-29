@@ -1,8 +1,8 @@
 # TzStats
 
-API for TZstats.com
+API for TZstats.com, useful for viewing information about the Tezos blockchain.
 
-For more information, please visit [https://github.com/eeyon](https://github.com/eeyon).
+For more information, please visit [https://github.com/ideaengine-io/tzstats-php-sdk](https://github.com/ideaengine-io/tzstats-php-sdk).
 
 ## Installation & Usage
 
@@ -20,11 +20,11 @@ To install the bindings via [Composer](https://getcomposer.org/), add the follow
   "repositories": [
     {
       "type": "vcs",
-      "url": "https://github.com/GIT_USER_ID/GIT_REPO_ID.git"
+      "url": "https://github.com/ideaengine-io/tzstats-php-sdk.git"
     }
   ],
   "require": {
-    "GIT_USER_ID/GIT_REPO_ID": "*@dev"
+    "ideaengine-io/tzstats-php-sdk": "*@dev"
   }
 }
 ```
@@ -140,7 +140,7 @@ vendor/bin/phpunit
 
 ## Author
 
-tezos@whafor.com
+code@ideaengine.io
 
 ## About this package
 

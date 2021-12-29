@@ -1,6 +1,7 @@
 {
+    "name": "ideaengine-io/tzstats-php-sdk",
     "version": "0.0.1",
-    "description": "API for TZstats.com",
+    "description": "API for TZstats.com, useful for viewing information about the Tezos blockchain.",
     "keywords": [
         "openapitools",
         "openapi-generator",
